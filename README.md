@@ -1,6 +1,6 @@
 # jqueryJsonP
 ## Voorbeeld
-https://cdn.rawgit.com/swhiteley91/jqueryJsonP/master/public_html/index.html
+https://rawgit.com/swhiteley91/jqueryJsonP/master/public_html/index.html
 
 ## Code
 Hieronder zie je betreffende JQuery code om het bovenstaande te bereiken.
